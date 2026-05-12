@@ -28,8 +28,4 @@ git clone https://github.com/Grifball-Archive/Grifball-Archive.wiki.git
 
 ## Contributing
 
-See **[CONTRIBUTING.md](CONTRIBUTING.md)** for editing norms, wiki settings, and (for people updating the website) GitHub Pages / Jekyll notes.
-
-## License
-
-Add a `LICENSE` file when you choose how you want text and media reused (for example a Creative Commons license for wiki content).
+See **[CONTRIBUTING.md](CONTRIBUTING.md)**
