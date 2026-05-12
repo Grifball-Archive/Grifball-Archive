@@ -3,7 +3,7 @@
 # Replace docs/assets/images/hero.jpg with your real hero; same file is shown below.
 social:
   cards_layout_options:
-    background_image: assets/images/grifball-archive-hero.png
+    background_image: docs/assets/images/grifball-archive-hero.png
 ---
 
 # Welcome
