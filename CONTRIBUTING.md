@@ -4,12 +4,9 @@
 
 ## Who can edit
 
-This project uses GitHub’s **Wiki** feature. Editing permissions are controlled only in **repository settings** (there is no per-page lock).
+This project uses GitHub’s **Wiki** feature.
 
 - **Open wiki:** any signed-in GitHub user can edit pages live.
-- **Collaborators only:** only people with write access to the repository can edit.
-
-You can switch between these at any time; see [Maintainer checklist](#maintainer-checklist).
 
 ## Editing in the browser
 
@@ -46,29 +43,3 @@ In the wiki clone, you can add:
 - `_Footer.md` — footer on wiki pages.
 
 Commit and push like any other wiki page.
-
-## Content guidelines
-
-- Prefer clear titles, short sections, and links between related pages.
-- When stating facts (dates, rules, quotes), cite or link to a source when you can.
-- If something is uncertain, say so; avoid presenting guesses as established history.
-- Treat other contributors respectfully; disruptive or abusive edits may be reverted and permissions may be tightened.
-
-## Maintainer checklist
-
-Do these in the GitHub UI for **Grifball-Archive/Grifball-Archive**:
-
-1. **Settings** → **General** → **Features** → enable **Wikis**.
-2. **Open wiki (your current plan):** under **Features**, ensure **Restrict editing to collaborators only** is **unchecked** so any signed-in user may edit.  
-   To restrict later, check that option again.
-3. Optionally add trusted people under **Collaborators and teams** (or org teams) so they have **Write** access to the main repo if they should help moderate or revert via history.
-4. Create a **Home** page in the wiki with a short intro and links to important topics.
-
-### If the org uses “default repository settings”
-
-Org owners may need to allow wikis for this repo or confirm that non-members can edit public wikis when restriction is off. Check **Organization settings** → **Member privileges** / repository policy if something is unexpectedly blocked.
-
-## Main repository vs wiki
-
-- **Wiki:** community pages, quick updates, open editing (as configured).
-- **This `main` branch:** optional “shell” — README, policies, or exported snapshots. Changes here use normal **pull requests** if you add collaborators with write access.
