@@ -1,16 +1,41 @@
-/* url() is relative to this file in the built site: stylesheets/extra.css → ../assets/images/… */
-/* Images live in: docs/assets/images/ */
+/* Background image: path is relative to this file → site/stylesheets/extra.css → ../assets/images/ */
+/* Source files: docs/assets/images/ */
 
 .md-typeset h1 {
   font-weight: 600;
 }
 
-[data-md-color-scheme="default"] body {
+/* Put the wallpaper on html; body stays transparent so it shows behind Material’s layout */
+html[data-md-color-scheme="default"] {
   background-image: url("../assets/images/Halo_3_Grifball.jpg");
   background-size: cover;
+  background-position: center top;
   background-attachment: fixed;
+  background-color: #cfd8dc;
 }
 
-.md-main__inner {
-  background: rgba(255, 255, 255, 0.92);
+html[data-md-color-scheme="default"] body {
+  background: transparent;
+}
+
+/* Default theme uses solid white panels — make them translucent so the image reads through */
+html[data-md-color-scheme="default"] .md-main__inner {
+  background: rgba(255, 255, 255, 0.9) !important;
+}
+
+html[data-md-color-scheme="default"] .md-sidebar__scrollwrap {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+}
+
+/* Dark mode: skip the bright photo (optional solid); adjust if you add a darker asset */
+html[data-md-color-scheme="slate"] body {
+  background: transparent;
+}
+
+html[data-md-color-scheme="slate"] .md-main__inner {
+  background: var(--md-default-bg-color) !important;
+}
+
+html[data-md-color-scheme="slate"] .md-sidebar__scrollwrap {
+  background-color: var(--md-default-bg-color) !important;
 }
