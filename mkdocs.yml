@@ -1,7 +1,7 @@
 # Reading experience similar to GitBook wikis (e.g. https://wiki.thescriptersguild.com/).
 # Hosted on GitHub Pages; content = Markdown under docs/.
 site_name: Grifball Archive
-site_description: A public library of Grifball history — articles, statistics, video and image catalogs, and more.
+site_description: A place for all Grifball archives: articles, stats, sheets, images, and videos. This repository is for **browsing and preservation**.
 site_url: https://grifball-archive.github.io/Grifball-Archive/
 
 repo_url: https://github.com/Grifball-Archive/Grifball-Archive
