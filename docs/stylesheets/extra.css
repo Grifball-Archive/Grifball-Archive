@@ -5,6 +5,16 @@
   font-weight: 600;
 }
 
+/* Welcome hero (docs/index.md); replace docs/assets/images/hero.jpg to change page + social card */
+.md-typeset img.gb-hero {
+  display: block;
+  width: 100%;
+  max-width: min(56rem, 100%);
+  height: auto;
+  margin: 0 auto 1rem auto;
+  border-radius: 4px;
+}
+
 html {
   background-color: #0d1117;
 }

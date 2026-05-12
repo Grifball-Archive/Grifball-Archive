@@ -1,4 +1,14 @@
+---
+# Welcome-page link preview: social plugin uses this image on the generated card.
+# Replace docs/assets/images/hero.jpg with your real hero; same file is shown below.
+social:
+  cards_layout_options:
+    background_image: assets/images/hero.jpg
+---
+
 # Welcome
+
+<img class="gb-hero" src="assets/images/hero.jpg" alt="Grifball Archive hero" loading="lazy" decoding="async" />
 
 The **Grifball Archive** is a **public library** on the web where **anyone can contribute** and download the entire archive. This is a community preservation effort for Grifball, and a place to fill in the gaps on history.
 
