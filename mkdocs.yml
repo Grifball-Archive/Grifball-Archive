@@ -1,0 +1,67 @@
+# Reading experience similar to GitBook wikis (e.g. https://wiki.thescriptersguild.com/).
+# Hosted on GitHub Pages; content = Markdown under docs/.
+site_name: Grifball Archive
+site_description: A public library of Grifball history — articles, statistics, and video records.
+site_url: https://grifball-archive.github.io/Grifball-Archive/
+
+repo_url: https://github.com/Grifball-Archive/Grifball-Archive
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+  extra_css:
+    - stylesheets/extra.css
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+nav:
+  - Welcome: index.md
+  - Historical record:
+      - Overview: history/overview.md
+      - Timeline (stub): history/timeline.md
+  - Articles:
+      - Overview: articles/overview.md
+  - Statistics:
+      - Overview: statistics/overview.md
+  - Video library:
+      - Overview: video/overview.md
+  - Reference:
+      - Overview: reference/overview.md
+  - Using this library: library/using-the-archive.md
+  - Contributing:
+      - Submitting materials: contributing/submitting-materials.md

@@ -1,0 +1,4 @@
+/* Slight “reading room” feel; Material handles most layout. */
+.md-typeset h1 {
+  font-weight: 600;
+}

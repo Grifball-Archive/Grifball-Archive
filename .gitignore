@@ -8,3 +8,6 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 vendor/
+
+# MkDocs
+site/
