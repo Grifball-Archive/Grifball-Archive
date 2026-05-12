@@ -19,4 +19,4 @@ All library pages and assets live under **`docs/`**. The outline is defined in *
 
 ## Contributing
 
-See **[docs/contributing/submitting-materials.md](docs/contributing/submitting-materials.md)** and the short **[CONTRIBUTING.md](CONTRIBUTING.md)** entry point.
+See **[docs/contributing/submitting-materials.md](docs/contributing/submitting-materials.md)**
