@@ -1,5 +1,59 @@
-/* Default Material surfaces — no full-page background (avoids layout / instant-nav quirks). */
+/* Wallpaper + panels: fixed layer avoids missing bg on some routes (instant nav);
+   one rgba for all columns avoids darker seams where translucent panels met. */
 
 .md-typeset h1 {
   font-weight: 600;
+}
+
+html {
+  background-color: #0d1117;
+}
+
+body {
+  position: relative;
+  isolation: isolate;
+}
+
+/* Full-viewport image behind the whole UI */
+body[data-md-color-scheme="default"]::before,
+body[data-md-color-scheme="slate"]::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+body[data-md-color-scheme="default"]::before {
+  background-image: url("../assets/images/Halo_3_Grifball.jpg");
+}
+
+/* Same image in dark mode, with a dark wash so text/admonitions stay readable */
+body[data-md-color-scheme="slate"]::before {
+  background-image: linear-gradient(rgba(13, 16, 23, 0.9), rgba(13, 16, 23, 0.9)),
+    url("../assets/images/Halo_3_Grifball.jpg");
+}
+
+/* Same frosted value on every column — no opacity stacking at borders */
+body[data-md-color-scheme="default"] .md-main__inner,
+body[data-md-color-scheme="default"] .md-sidebar__scrollwrap {
+  background-color: rgba(255, 255, 255, 0.93) !important;
+}
+
+body[data-md-color-scheme="slate"] .md-main__inner,
+body[data-md-color-scheme="slate"] .md-sidebar__scrollwrap {
+  background-color: rgba(30, 35, 44, 0.94) !important;
+}
+
+/* Let the frosted layer show through — theme sometimes paints these solid */
+body[data-md-color-scheme="default"] .md-main,
+body[data-md-color-scheme="default"] .md-sidebar,
+body[data-md-color-scheme="default"] .md-content,
+body[data-md-color-scheme="slate"] .md-main,
+body[data-md-color-scheme="slate"] .md-sidebar,
+body[data-md-color-scheme="slate"] .md-content {
+  background: transparent !important;
 }
