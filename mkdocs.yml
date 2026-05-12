@@ -10,6 +10,10 @@ edit_uri: edit/main/docs/
 docs_dir: docs
 site_dir: site
 
+# Must be top-level — MkDocs injects these into pages; theme.extra_css is not applied.
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   logo: assets/images/Assault_Icon.jpg
@@ -26,8 +30,6 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
-  extra_css:
-    - stylesheets/extra.css
   features:
     - navigation.instant
     - navigation.tracking
