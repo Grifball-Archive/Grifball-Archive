@@ -20,17 +20,3 @@ All library pages and assets live under **`docs/`**. The outline is defined in *
 ## Contributing
 
 See **[docs/contributing/submitting-materials.md](docs/contributing/submitting-materials.md)** and the short **[CONTRIBUTING.md](CONTRIBUTING.md)** entry point.
-
-## GitHub Pages setup
-
-The workflow [.github/workflows/deploy-docs.yml](.github/workflows/deploy-docs.yml) publishes the built MkDocs site with **GitHub Actions** (not the raw `main` branch).
-
-1. Open **Settings → Pages → Build and deployment**.
-2. Set **Source** to **GitHub Actions** (not “Deploy from a branch”).
-3. Push to `main` (or run the workflow manually) and let **Deploy documentation to GitHub Pages** finish. Approve the workflow if GitHub asks on first run.
-
-Until **Source** is **GitHub Actions**, GitHub may keep serving an **older Jekyll “front door”** from `main` that mostly links back to the repo. After Actions is the source, the **MkDocs** site (everything under `docs/`) is what readers see at the same URL.
-
-## License
-
-Add a `LICENSE` when you decide how text and files may be reused (for example Creative Commons for prose).
