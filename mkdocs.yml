@@ -16,7 +16,9 @@ extra_css:
 
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/images/Assault_Icon.jpg
+  favicon: assets/images/Assault_Icon.jpg
   palette:
     - scheme: default
       primary: blue
