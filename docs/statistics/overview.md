@@ -1,4 +1,4 @@
-# Statistics
+# Stats and Sheets
 
 Store **numbers people will want years later**: standings, Elo exports, sign-up sheets, etc.
 
