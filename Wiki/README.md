@@ -1,0 +1,1 @@
+This folder is **not** connected to GitHub’s Wiki tab. The real wiki lives on GitHub ([Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive) → **Wiki**) or in a clone of `https://github.com/Grifball-Archive/Grifball-Archive.wiki.git`. Use this directory only if you intentionally keep a mirror or drafts here.
