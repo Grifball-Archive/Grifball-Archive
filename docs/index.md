@@ -4,12 +4,12 @@ The **Grifball Archive** is a **public library** on the web where **anyone can c
 
 ## Start reading on this site
 
-- **[Historical record → Overview](history/overview.md)** — chronology and context.
-- **[Articles → Overview](articles/overview.md)** — long-form write-ups.
-- **[Stats and sheets](statistics/overview.md)** — spreadsheets, numbers, signups, season details.
-- **[Video library](video/overview.md)** — VOD catalogs, videos, clips.
+- **[Historical Record](history/overview.md)** — chronology and context.
+- **[Articles](articles/overview.md)** — long-form write-ups.
+- **[Stats and Sheets](statistics/overview.md)** — spreadsheets, numbers, signups, season details.
+- **[Video Library](video/overview.md)** — VOD catalogs, videos, clips.
 - **[Webpages](webpages/overview.md)** — saved page content, screenshots, and other web snapshots.
-- **[Image library](image-library/overview.md)** — catalogs of still images and where to open them.
+- **[Image Library](image-library/overview.md)** — catalogs of still images and where to open them.
 - **[Misc / Uncategorized](misc/overview.md)** — when you are not sure which section fits yet; maintainers can sort it later.
 
 ## Contributing
