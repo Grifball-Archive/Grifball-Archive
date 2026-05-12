@@ -48,10 +48,6 @@ GitHub wikis are **git repositories**; they are a poor place for big binary file
 - **Preferred:** upload to **YouTube** (public or **unlisted**), **Internet Archive**, or another stable host, then on the wiki add a **short article** with context, date, and the **link** (and optionally a thumbnail image).
 - **Short clips:** only if very small (think a few MB at most); still prefer an external link for anything nontrivial.
 
-### Rights and safety
-
-Only add images, clips, or documents you **have permission** to share. If something is someone else’s work, say who made it and link to the original when possible.
-
 ## Cloning the wiki locally
 
 The wiki is stored in a separate Git repo:
