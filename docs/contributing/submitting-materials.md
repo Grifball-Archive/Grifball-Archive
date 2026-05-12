@@ -1,18 +1,17 @@
 # Submitting materials
 
-The **library website** is generated from the **`docs/`** folder using [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). Changes merge through **pull requests** on [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive), similar in workflow to GitBook-backed wikis such as [TSG Forge Wiki](https://wiki.thescriptersguild.com/) (which uses GitBook’s GitHub integration).
+The site is built from the **`docs/`** folder with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). Updates land on `main` through the normal GitHub flow you use for this repo (for example pull requests, or direct commits if you leave the branch open).
 
 ## Add or edit a page
 
-1. Browse to `docs/…` in the repository.
-2. Use the **Edit** (pencil) button, or fork and edit in your fork.
-3. Add new `.md` files in the right section (`history/`, `articles/`, etc.).
-4. Add an entry under **`nav:`** in **`mkdocs.yml`** so the page appears in the sidebar.
-5. Open a **pull request** into `main`.
+1. Open the right file under `docs/…` in the repository.
+2. Add or change Markdown; add new `.md` files where they belong (`history/`, `articles/`, etc.).
+3. For new pages, add a line under **`nav:`** in **`mkdocs.yml`** so they show in the sidebar.
+4. Merge to `main` the way you prefer (PR or direct push).
 
 ## Images
 
-Place files under **`docs/assets/images/`**. From a page in `docs/articles/foo.md`, reference:
+Place files under **`docs/assets/images/`**. From `docs/articles/foo.md`:
 
 ```markdown
 ![caption](../assets/images/example.png)
@@ -37,14 +36,6 @@ mkdocs serve
 
 ## GitHub Pages (maintainers)
 
-Workflow: `.github/workflows/deploy-docs.yml` builds MkDocs and deploys with **GitHub Actions** (official Pages artifact flow).
+Workflow: `.github/workflows/deploy-docs.yml` builds MkDocs and deploys with **GitHub Actions**.
 
-**Settings → Pages → Build and deployment**
-
-- **Source:** **GitHub Actions** (not “Deploy from a branch”).
-
-The first push after adding the workflow may require **Actions** to be enabled for the org/repo and a one-time approval of the workflow run.
-
-## Optional GitHub Wiki tab
-
-The [GitHub Wiki](https://github.com/Grifball-Archive/Grifball-Archive/wiki) is optional scratch space. **Canonical** library content should live under **`docs/`** so it appears in search and the sidebar.
+**Settings → Pages → Build and deployment** — **Source:** **GitHub Actions**.
