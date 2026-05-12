@@ -4,9 +4,7 @@ This page is part of the **Grifball Archive** itself: reading happens here, on t
 
 ## What this project is
 
-**Grifball** has appeared in several Halo titles and community formats. Over years of customs, leagues, and tournaments, a lot of knowledge lives in Discord logs, spreadsheets, YouTube uploads, and people’s memories. This archive exists so that **historical** material—how the game was played, who showed up, what was decided, what was broadcast—can be **found, read, and downloaded** in one place.
-
-This site is intentionally **not** a league operations hub. You will not find registration, weekly schedules, or live bracket software here. Think **library** or **reading room**: articles, timelines, statistics exports, and catalogs of video links that point to recordings hosted elsewhere.
+**Grifball**
 
 ## How the site is organized
 
