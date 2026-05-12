@@ -8,7 +8,7 @@ social:
 
 # Welcome
 
-<img class="gb-hero" src="assets/images/hero.jpg" alt="Grifball Archive hero" loading="lazy" decoding="async" />
+<img class="gb-hero" src="docs/assets/images/grifball-archive-hero.png" alt="Grifball Archive hero" loading="lazy" decoding="async" />
 
 The **Grifball Archive** is a **public library** on the web where **anyone can contribute** and download the entire archive. This is a community preservation effort for Grifball, and a place to fill in the gaps on history.
 
