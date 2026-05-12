@@ -33,7 +33,9 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    # navigation.expand off — nested groups start collapsed (click to open)
+    # Top-level groups (Historical record, Articles, …) become tabs under the header;
+    # the left sidebar only lists pages inside the active tab — much less clutter.
+    - navigation.tabs
     - navigation.sections
     - navigation.top
     - navigation.footer
