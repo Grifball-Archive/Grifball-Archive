@@ -36,6 +36,9 @@ theme:
     # Top-level groups (Historical record, Articles, …) become tabs under the header;
     # the left sidebar only lists pages inside the active tab — much less clutter.
     - navigation.tabs
+    # Keeps the tab row in the header (outside the instant-swapped container) so it
+    # does not vanish when using navigation.instant with navigation.tabs.
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - navigation.footer
@@ -68,6 +71,5 @@ nav:
       - Overview: video/overview.md
   - Webpages:
       - Overview: webpages/overview.md
-  - Using this library: library/using-the-archive.md
   - Contributing:
       - Submitting materials: contributing/submitting-materials.md
