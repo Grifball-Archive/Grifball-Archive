@@ -10,6 +10,8 @@ The **Grifball Archive** is a **public library** on the web: you read **here**, 
 - **[Stats and sheets](statistics/overview.md)** — spreadsheets, numbers, signups, season details.
 - **[Video library](video/overview.md)** — VOD catalogs, videos, clips.
 - **[Webpages](webpages/overview.md)** — saved page content, screenshots, and other web snapshots.
+- **[Image library](image-library/overview.md)** — catalogs of still images and where to open them.
+- **[Misc / Uncategorized](misc/overview.md)** — when you are not sure which section fits yet; maintainers can sort it later.
 
 ## Contributing
 

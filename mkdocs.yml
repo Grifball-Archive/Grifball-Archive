@@ -1,7 +1,7 @@
 # Reading experience similar to GitBook wikis (e.g. https://wiki.thescriptersguild.com/).
 # Hosted on GitHub Pages; content = Markdown under docs/.
 site_name: Grifball Archive
-site_description: A public library of Grifball history — articles, statistics, and video records.
+site_description: A public library of Grifball history — articles, statistics, video and image catalogs, and more.
 site_url: https://grifball-archive.github.io/Grifball-Archive/
 
 repo_url: https://github.com/Grifball-Archive/Grifball-Archive
@@ -31,13 +31,15 @@ theme:
         icon: material/brightness-7
         name: Switch to light mode
   features:
-    - navigation.instant
+    # Instant + sticky tabs can leave duplicate / stale tab rows in the header after
+    # nav changes or fast clicks; full reloads keep the top bar consistent.
+    # - navigation.instant
     - navigation.tracking
     # Top-level groups (Historical record, Articles, …) become tabs under the header;
     # the left sidebar only lists pages inside the active tab — much less clutter.
     - navigation.tabs
-    # Keeps the tab row in the header (outside the instant-swapped container) so it
-    # does not vanish when using navigation.instant with navigation.tabs.
+    # Renders tabs inside the header so they stay visible while scrolling.
+    # (Previously paired with navigation.instant; instant is off to avoid duplicate/stale tab rows.)
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
@@ -71,5 +73,9 @@ nav:
       - Overview: video/overview.md
   - Webpages:
       - Overview: webpages/overview.md
+  - Image library:
+      - Overview: image-library/overview.md
+  - "Misc/Uncategorized":
+      - Overview: misc/overview.md
   - Contributing:
       - Submitting materials: contributing/submitting-materials.md

@@ -9,6 +9,8 @@ The site is built from the **`docs/`** folder with [MkDocs Material](https://squ
 3. For new pages, add a line under **`nav:`** in **`mkdocs.yml`** so they show in the sidebar.
 4. Merge to `main` the way you prefer (PR or direct push).
 
+**Not sure which section?** Add your page under **[Misc / Uncategorized](../misc/overview.md)** first; maintainers can relocate it and update `mkdocs.yml` later.
+
 ## Images
 
 Place files under **`docs/assets/images/`**. From `docs/articles/foo.md`:

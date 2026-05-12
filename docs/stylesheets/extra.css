@@ -1,4 +1,4 @@
-/* Wallpaper + panels: fixed layer avoids missing bg on some routes (instant nav);
+/* Wallpaper + panels: fixed layer avoids missing bg on client navigations;
    one rgba for all columns avoids darker seams where translucent panels met. */
 
 .md-typeset h1 {

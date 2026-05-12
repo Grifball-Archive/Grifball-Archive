@@ -15,6 +15,8 @@ The **left sidebar** lists major areas:
 - **Stats and sheets** — tabular data and exports preserved as files or described on pages.
 - **Video library** — tables of VODs (with links), not multi‑gigabyte uploads inside the repository.
 - **Webpages** — screenshots, saved page notes, and other web snapshots for when links die.
+- **Image library** — still images (screenshots, posters, photos) with captions and links or paths.
+- **Misc / Uncategorized** — temporary home for submissions until editors move them into the right tab.
 
 Use **Search** in the header to jump across all of those sections.
 
