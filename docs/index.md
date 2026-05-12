@@ -7,9 +7,9 @@ The **Grifball Archive** is a **public library** on the web: you read **here**, 
 - **[About this archive](articles/about-the-archive.md)** — what this project is, how sections fit together, and how publishing works.
 - **[Historical record → Overview](history/overview.md)** — chronology and context.
 - **[Articles → Overview](articles/overview.md)** — long-form write-ups.
-- **[Statistics](statistics/overview.md)** — sheets, numbers, signups, stats, season details.
+- **[Stats and sheets](statistics/overview.md)** — spreadsheets, numbers, signups, season details.
 - **[Video library](video/overview.md)** — VOD catalogs, videos, clips.
-- **[Reference](reference/overview.md)** — rules and terminology as a historical snapshot.
+- **[Webpages](webpages/overview.md)** — saved page content, screenshots, and other web snapshots.
 - **[Using this library](library/using-the-archive.md)** — browse on the web vs download the repo.
 
 ## Contributing

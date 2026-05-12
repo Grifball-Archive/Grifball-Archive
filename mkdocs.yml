@@ -33,7 +33,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.expand
+    # navigation.expand off — nested groups start collapsed (click to open)
     - navigation.sections
     - navigation.top
     - navigation.footer
@@ -60,12 +60,12 @@ nav:
   - Articles:
       - Overview: articles/overview.md
       - About this archive: articles/about-the-archive.md
-  - Statistics:
+  - Stats and sheets:
       - Overview: statistics/overview.md
   - Video library:
       - Overview: video/overview.md
-  - Reference:
-      - Overview: reference/overview.md
+  - Webpages:
+      - Overview: webpages/overview.md
   - Using this library: library/using-the-archive.md
   - Contributing:
       - Submitting materials: contributing/submitting-materials.md

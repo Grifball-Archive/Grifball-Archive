@@ -12,9 +12,9 @@ The **left sidebar** lists major areas:
 
 - **Historical record** — eras, milestones, and chronology.
 - **Articles** — longer write-ups and retrospectives.
-- **Statistics** — tabular data and exports preserved as files or described on pages.
+- **Stats and sheets** — tabular data and exports preserved as files or described on pages.
 - **Video library** — tables of VODs (with links), not multi‑gigabyte uploads inside the repository.
-- **Reference** — rules and terminology **as of** a given period, for comparison over time.
+- **Webpages** — screenshots, saved page notes, and other web snapshots for when links die.
 
 Use **Search** in the header to jump across all of those sections.
 
