@@ -1,16 +1,19 @@
 ---
 layout: default
-title: Home
+title: Grifball Archive
+description: Community-maintained Grifball history, rules, events, and resources.
 ---
 
-Community-maintained archive for **Grifball** — history, rules, events, and resources.
+**This site** is a small front door built with [GitHub Pages](https://pages.github.com). The **living archive** is the repository [**Wiki**](https://github.com/Grifball-Archive/Grifball-Archive/wiki) on GitHub — use the header links (**Wiki**, **Explore**, **Contribute**) to move around.
 
-### Wiki
+### Quick links
 
-The main documentation lives in the repository [**Wiki**](https://github.com/Grifball-Archive/Grifball-Archive/wiki). Anyone signed in to GitHub can edit pages there (see [Contributing](https://github.com/Grifball-Archive/Grifball-Archive/blob/main/CONTRIBUTING.md)).
+- [**Wiki (main content)**](https://github.com/Grifball-Archive/Grifball-Archive/wiki)
+- [**How to contribute**]({% link contribute.md %})
+- [**Where everything lives**]({% link explore.md %})
+- [**Repository on GitHub**](https://github.com/Grifball-Archive/Grifball-Archive)
 
-### Repository
+### Clone
 
-- [Grifball-Archive/Grifball-Archive on GitHub](https://github.com/Grifball-Archive/Grifball-Archive)
-- Clone this site’s source: `git clone https://github.com/Grifball-Archive/Grifball-Archive.git`
-- Clone the wiki only: `git clone https://github.com/Grifball-Archive/Grifball-Archive.wiki.git`
+- This site’s source: `git clone https://github.com/Grifball-Archive/Grifball-Archive.git`
+- Wiki only: `git clone https://github.com/Grifball-Archive/Grifball-Archive.wiki.git`

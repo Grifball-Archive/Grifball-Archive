@@ -1,6 +1,8 @@
 # Contributing to the Grifball Archive wiki
 
-**Repository:** [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive) · **Wiki:** [wiki home](https://github.com/Grifball-Archive/Grifball-Archive/wiki)
+**Repository:** [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive) · **Wiki:** [wiki home](https://github.com/Grifball-Archive/Grifball-Archive/wiki) · **Pages site (orientation only):** [grifball-archive.github.io/Grifball-Archive](https://grifball-archive.github.io/Grifball-Archive/)
+
+The **wiki** is where articles and the archive live. The **Pages** URL is a small Jekyll site with links into the wiki — not a second wiki.
 
 ## Who can edit
 

@@ -4,7 +4,7 @@ A place for all Grifball archives — community-maintained rules, events, and re
 
 **Repository:** [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive)
 
-**Public site:** [grifball-archive.github.io/Grifball-Archive](https://grifball-archive.github.io/Grifball-Archive/)
+**Public site:** [grifball-archive.github.io/Grifball-Archive](https://grifball-archive.github.io/Grifball-Archive/) — Jekyll “front door” with nav; **most content** is in the [Wiki](https://github.com/Grifball-Archive/Grifball-Archive/wiki) below.
 
 ## Wiki (main content)
 
