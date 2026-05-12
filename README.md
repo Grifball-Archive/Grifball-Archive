@@ -6,8 +6,6 @@ A place for all Grifball archives — a **public library** of **history**: artic
 
 **Library website (browse):** [grifball-archive.github.io/Grifball-Archive](https://grifball-archive.github.io/Grifball-Archive/)
 
-The site is built with **[MkDocs Material](https://squidfunk.github.io/mkdocs-material/)** on GitHub Pages so it feels like a **GitBook-style** wiki: **sidebar navigation**, **search**, and an **on-page table of contents** — the same *kind* of reading experience as [TSG Forge Wiki](https://wiki.thescriptersguild.com/) (TSG uses GitBook itself; we use MkDocs on a free org for a close match).
-
 ## Content location
 
 All library pages and assets live under **`docs/`**. The outline is defined in **`mkdocs.yml`** (like a GitBook summary file).
