@@ -1,0 +1,21 @@
+# Jekyll + GitHub Pages — https://docs.github.com/pages/setting-up-a-github-pages-site-with-jekyll
+title: Grifball Archive
+description: Community-maintained Grifball history, rules, events, and resources.
+url: https://grifball-archive.github.io
+baseurl: /Grifball-Archive
+
+# Official GitHub Pages themes (swap the name): https://pages.github.com/themes/
+# Examples: cayman, minimal, slate, midnight, hacker, architect, tactile, dinky, merlot, modernist, time-machine, leap-day
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CONTRIBUTING.md
+  - Wiki
