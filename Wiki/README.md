@@ -1,1 +1,0 @@
-This folder is **not** the main archive. The **library site** is built from **`docs/`** in the main repository (see [README](../README.md)). The GitHub **Wiki** tab is optional; see [Submitting materials](../docs/contributing/submitting-materials.md). Use this `Wiki/` directory only if you keep local mirrors or drafts.
