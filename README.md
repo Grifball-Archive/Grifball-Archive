@@ -1,6 +1,6 @@
 # Grifball Archive
 
-A place for all Grifball archives — community-maintained rules, events, and resources.
+A place for all Grifball archives
 
 **Repository:** [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive)
 
