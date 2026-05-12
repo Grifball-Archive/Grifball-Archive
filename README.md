@@ -1,6 +1,6 @@
 # Grifball Archive
 
-A place for all Grifball history — community-maintained rules, events, and resources.
+A place for all Grifball archives
 
 **Repository:** [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive)
 
@@ -27,7 +27,3 @@ git clone https://github.com/Grifball-Archive/Grifball-Archive.wiki.git
 ## Contributing
 
 See **[CONTRIBUTING.md](CONTRIBUTING.md)** for editing norms, sidebar/footer pages, and maintainer settings (enabling the wiki and open vs collaborator-only editing).
-
-## License
-
-Add a `LICENSE` file when you choose how you want text and media reused (for example a Creative Commons license for wiki content).
