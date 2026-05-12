@@ -37,9 +37,13 @@ mkdocs serve
 
 ## GitHub Pages (maintainers)
 
-Workflow: `.github/workflows/deploy-docs.yml` publishes the built site to the **`gh-pages`** branch.
+Workflow: `.github/workflows/deploy-docs.yml` builds MkDocs and deploys with **GitHub Actions** (official Pages artifact flow).
 
-**Settings → Pages:** source **Deploy from a branch** → **`gh-pages`** / **`/`** (root).
+**Settings → Pages → Build and deployment**
+
+- **Source:** **GitHub Actions** (not “Deploy from a branch”).
+
+The first push after adding the workflow may require **Actions** to be enabled for the org/repo and a one-time approval of the workflow run.
 
 ## Optional GitHub Wiki tab
 

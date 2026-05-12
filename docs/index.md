@@ -1,21 +1,19 @@
 # Welcome
 
-The **Grifball Archive** is a **public library**: a place to read and browse **historical** material about Grifball — eras, articles, statistics, and video records — without running a league or day-to-day operations here.
+The **Grifball Archive** is a **public library** on the web: you read **here**, in these pages—search, sidebar, and headings—without having to jump back to GitHub for every answer. The repository still holds the source files so anyone can **clone or download a ZIP** for offline or long-term preservation.
 
-The reading layout (left **navigation**, **search**, and **on-page table of contents**) follows the same idea as wikis built with **GitBook**, such as the [TSG Forge Wiki](https://wiki.thescriptersguild.com/). TSG’s site is GitBook itself; this archive uses **[MkDocs Material](https://squidfunk.github.io/mkdocs-material/)** on [GitHub Pages](https://pages.github.com/) so everything stays in an open repository you can **clone or ZIP** for your own copy.
+This layout (left **navigation**, **search**, and **on-page table of contents**) follows the same *reading* idea as wikis built with **GitBook**, such as the [TSG Forge Wiki](https://wiki.thescriptersguild.com/). TSG’s site is GitBook itself; this archive uses **[MkDocs Material](https://squidfunk.github.io/mkdocs-material/)** on [GitHub Pages](https://pages.github.com/).
 
-## Where to start
+## Start reading on this site
 
-- **Big picture history** — [Historical record → Overview](history/overview.md)
-- **Long-form write-ups** — [Articles](articles/overview.md)
-- **Spreadsheets, exports, numbers** — [Statistics](statistics/overview.md)
-- **Match VODs and broadcasts** — [Video library](video/overview.md) (links and catalogs, not raw uploads in git)
-- **Rules and terminology as reference** — [Reference](reference/overview.md)
-
-## How to use this library
-
-Use **Search** in the header, open sections in the sidebar, and follow in-page headings. Everything here is meant as a **record**, not live scheduling or registration.
+- **[About this archive](articles/about-the-archive.md)** — what this project is, how sections fit together, and how publishing works.
+- **[Historical record → Overview](history/overview.md)** — chronology and context.
+- **[Articles → Overview](articles/overview.md)** — long-form write-ups.
+- **[Statistics](statistics/overview.md)** — numbers and exports.
+- **[Video library](video/overview.md)** — VOD catalogs (links, not huge files in git).
+- **[Reference](reference/overview.md)** — rules and terminology as a historical snapshot.
+- **[Using this library](library/using-the-archive.md)** — browse on the web vs download the repo.
 
 ## Contributing
 
-Materials are added through the GitHub repository via **pull requests**. See [Submitting materials](contributing/submitting-materials.md).
+To add or fix content, use **[Submitting materials](contributing/submitting-materials.md)** (pull requests). The pencil **Edit** control in the header opens the source file on GitHub when you are signed in.

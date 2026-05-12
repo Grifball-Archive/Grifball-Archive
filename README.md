@@ -27,11 +27,11 @@ See **[docs/contributing/submitting-materials.md](docs/contributing/submitting-m
 
 The workflow [.github/workflows/deploy-docs.yml](.github/workflows/deploy-docs.yml) publishes the built MkDocs site with **GitHub Actions** (not the raw `main` branch).
 
-1. **Settings → Pages → Build and deployment**
+1. Open **Settings → Pages → Build and deployment**.
 2. Set **Source** to **GitHub Actions** (not “Deploy from a branch”).
-3. Merge to `main` and let the **Deploy documentation to GitHub Pages** workflow finish. Approve it if the org/repo asks on first run.
+3. Push to `main` (or run the workflow manually) and let **Deploy documentation to GitHub Pages** finish. Approve the workflow if GitHub asks on first run.
 
-If **Source** is still **Deploy from branch `main`**, GitHub can keep serving an **old Jekyll placeholder** that mostly links back to the repo. Switching to **GitHub Actions** is what makes the **full library pages** appear at the same URL.
+Until **Source** is **GitHub Actions**, GitHub may keep serving an **older Jekyll “front door”** from `main` that mostly links back to the repo. After Actions is the source, the **MkDocs** site (everything under `docs/`) is what readers see at the same URL.
 
 ## License
 

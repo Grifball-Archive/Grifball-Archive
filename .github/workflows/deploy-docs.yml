@@ -1,18 +1,21 @@
-name: Deploy documentation
+name: Deploy documentation to GitHub Pages
 
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
-  group: pages-${{ github.ref }}
+  group: pages
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,14 +24,23 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install MkDocs
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
-      - name: Build
-        run: mkdocs build --strict
+      - run: mkdocs build --strict
 
-      - name: Publish to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Disable Jekyll processing on Pages (harmless for Actions deploy)
+        run: touch site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
