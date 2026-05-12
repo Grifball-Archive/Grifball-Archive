@@ -28,13 +28,13 @@ body[data-md-color-scheme="slate"]::before {
 }
 
 body[data-md-color-scheme="default"]::before {
-  background-image: url("../assets/images/Halo_3_Grifball.jpg");
+  background-image: url("../assets/images/h3grifball1.jpg");
 }
 
 /* Same image in dark mode, with a dark wash so text/admonitions stay readable */
 body[data-md-color-scheme="slate"]::before {
   background-image: linear-gradient(rgba(13, 16, 23, 0.9), rgba(13, 16, 23, 0.9)),
-    url("../assets/images/Halo_3_Grifball.jpg");
+    url("../assets/images/h3grifball2.jpg");
 }
 
 /* Same frosted value on every column — no opacity stacking at borders */
