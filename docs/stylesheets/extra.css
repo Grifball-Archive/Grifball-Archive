@@ -1,4 +1,30 @@
-/* Slight “reading room” feel; Material handles most layout. */
+/* Custom look: edit this file + theme colors in ../../mkdocs.yml (theme.palette). */
+/* Material docs: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ */
+/* and: https://squidfunk.github.io/mkdocs-material/customization/ */
+
 .md-typeset h1 {
   font-weight: 600;
 }
+
+/* --- Examples (uncomment and adjust) --- */
+
+/*
+  Background image: put the file in docs/assets/images/, then use a path
+  relative to this stylesheet in the built site (usually ../assets/images/…).
+
+[data-md-color-scheme="default"] body {
+  background-image: url("../assets/images/archive-bg.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.md-main__inner {
+  background: rgba(255, 255, 255, 0.92);
+}
+*/
+
+/*
+.md-header {
+  background-color: #1a237e;
+}
+*/
