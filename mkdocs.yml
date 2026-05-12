@@ -16,7 +16,6 @@ extra_css:
 
 theme:
   name: material
-  custom_dir: overrides
   logo: assets/images/Assault_Icon.jpg
   favicon: assets/images/Assault_Icon.jpg
   palette:
@@ -53,6 +52,10 @@ theme:
 
 plugins:
   - search
+  # PNG preview cards per page (og:image). CairoSVG needs native Cairo; GitHub Actions sets CI=true
+  # and the workflow installs libcairo. Local Windows/macOS: omit CI or set CI=false to skip (see Material imaging docs).
+  - social:
+      enabled: !ENV [CI, false]
 
 markdown_extensions:
   - admonition

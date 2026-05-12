@@ -11,6 +11,7 @@ vendor/
 
 # MkDocs
 site/
+.cache/
 
 # Local planning / design notes (not shared via git — see README if we add a committed template later)
 PLANNING.local.md

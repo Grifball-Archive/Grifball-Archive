@@ -1,1 +1,2 @@
-mkdocs-material~=9.5
+# `imaging` extra: Pillow + CairoSVG for the built-in social plugin (generated preview cards).
+mkdocs-material[imaging]~=9.5
