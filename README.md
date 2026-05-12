@@ -1,6 +1,6 @@
 # Grifball Archive
 
-A place for all Grifball archives — a **public library** of **history**: articles, stats, sheets, images, and videos. This repository is for **browsing and preservation**.
+A place for all Grifball archives: articles, stats, sheets, images, and videos. This repository is for **browsing and preservation**.
 
 **Repository:** [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive)
 
