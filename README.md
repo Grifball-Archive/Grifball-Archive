@@ -1,6 +1,6 @@
 # Grifball Archive
 
-A place for all Grifball archives — a **public library** of **history**: articles, statistics, and video records. This repository is for **browsing and preservation**, not for running a league (no sign-ups, live schedules, or ops tooling here).
+A place for all Grifball archives — a **public library** of **history**: articles, stats, sheets, images, and videos. This repository is for **browsing and preservation**.
 
 **Repository:** [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive)
 
@@ -8,7 +8,7 @@ A place for all Grifball archives — a **public library** of **history**: artic
 
 ## Content location
 
-All library pages and assets live under **`docs/`**. The outline is defined in **`mkdocs.yml`** (like a GitBook summary file).
+All library pages and assets live under **`docs/`**. The outline is defined in **`mkdocs.yml`**.
 
 ## Download everything
 
