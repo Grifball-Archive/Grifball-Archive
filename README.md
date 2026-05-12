@@ -4,7 +4,7 @@ A place for all Grifball archives — community-maintained rules, events, and re
 
 **Repository:** [Grifball-Archive/Grifball-Archive](https://github.com/Grifball-Archive/Grifball-Archive)
 
-**GitHub Pages site:** [grifball-archive.github.io/Grifball-Archive](https://grifball-archive.github.io/Grifball-Archive/) (Jekyll + theme from `_config.yml`)
+**Public site:** [grifball-archive.github.io/Grifball-Archive](https://grifball-archive.github.io/Grifball-Archive/)
 
 ## Wiki (main content)
 
@@ -28,20 +28,7 @@ git clone https://github.com/Grifball-Archive/Grifball-Archive.wiki.git
 
 ## Contributing
 
-See **[CONTRIBUTING.md](CONTRIBUTING.md)** for editing norms, sidebar/footer pages, and maintainer settings (enabling the wiki and open vs collaborator-only editing).
-
-## Jekyll theme (Pages)
-
-Themes supported on GitHub Pages are listed at [pages.github.com/themes](https://pages.github.com/themes/). In **`_config.yml`**, set `remote_theme` to `pages-themes/<name>@v0.2.0` (use the tag from that theme’s repo if needed). Commit and push; Pages rebuilds automatically.
-
-**Preview locally** (Ruby + Bundler required):
-
-```bash
-bundle install
-bundle exec jekyll serve --livereload
-```
-
-Open `http://127.0.0.1:4000/Grifball-Archive/` (include `baseurl` path).
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for editing norms, wiki settings, and (for people updating the website) GitHub Pages / Jekyll notes.
 
 ## License
 

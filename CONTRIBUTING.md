@@ -43,3 +43,18 @@ In the wiki clone, you can add:
 - `_Footer.md` — footer on wiki pages.
 
 Commit and push like any other wiki page.
+
+## GitHub Pages site (maintainers)
+
+The landing page at [grifball-archive.github.io/Grifball-Archive](https://grifball-archive.github.io/Grifball-Archive/) is built with Jekyll from this repo (`index.md`, `_config.yml`). Most contributors never need to touch this.
+
+**Change the theme:** edit `remote_theme` in `_config.yml`. Official options: [pages.github.com/themes](https://pages.github.com/themes/). Push to `main`; Pages rebuilds automatically.
+
+**Preview locally** (Ruby + Bundler):
+
+```bash
+bundle install
+bundle exec jekyll serve --livereload
+```
+
+Open `http://127.0.0.1:4000/Grifball-Archive/` (include the `baseurl` path).
