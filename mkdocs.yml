@@ -2,7 +2,7 @@
 # Hosted on GitHub Pages; content = Markdown under docs/.
 site_name: Grifball Archive
 # Shown in <meta name="description">, Open Graph / Discord link previews, and search — not the main body of docs/index.md.
-site_description: A place for all Grifball archives: articles, stats, sheets, images, and videos. This repository is for browsing and preservation.
+site_description: A place for all Grifball archives. Articles, stats, sheets, images, and videos. This repository is for browsing and preservation.
 site_url: https://grifball-archive.github.io/Grifball-Archive/
 
 repo_url: https://github.com/Grifball-Archive/Grifball-Archive
