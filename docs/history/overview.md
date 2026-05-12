@@ -13,7 +13,7 @@ Articles can tell a story in depth; statistics can hold raw numbers. The **histo
 - **Source notes** (links, screenshots of primary posts, archived pages) so future editors can verify entries.
 
 !!! note "Growing this section"
-    Add new `.md` files under `docs/history/` in the repository, then register each file in `mkdocs.yml` under **Historical Record** so it appears in the sidebar.
+    Add new `.md` files under `docs/history/` in the repository, then register each file in that folder’s **`.nav.yml`** (or use a `*.md` glob there) so it appears in the sidebar.
 
 ## Related
 

@@ -58,6 +58,8 @@ theme:
 
 plugins:
   - search
+  # Navigation from docs/.nav.yml + per-folder .nav.yml (Obsidian-like hierarchy).
+  - awesome-nav
   # PNG preview cards per page (og:image). CairoSVG needs native Cairo; GitHub Actions sets CI=true
   # and the workflow installs libcairo. Local Windows/macOS: omit CI or set CI=false to skip (see Material imaging docs).
   - social:
@@ -73,23 +75,4 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-nav:
-  - Welcome: index.md
-  - Historical Record:
-      - Overview: history/overview.md
-      - Timeline (stub): history/timeline.md
-  - Articles:
-      - Overview: articles/overview.md
-      - About this archive: articles/about-the-archive.md
-  - Stats and Sheets:
-      - Overview: statistics/overview.md
-  - Webpages:
-      - Overview: webpages/overview.md
-  - Video Library:
-      - Overview: video/overview.md
-  - Image Library:
-      - Overview: image-library/overview.md
-  - "Misc/Uncategorized":
-      - Overview: misc/overview.md
-  - Contributing:
-      - Submitting materials: contributing/submitting-materials.md
+# Navigation: see docs/.nav.yml (and optional docs/<folder>/.nav.yml). Add new folders there, then drop .md files inside.

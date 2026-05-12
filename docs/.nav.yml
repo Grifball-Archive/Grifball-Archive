@@ -1,0 +1,12 @@
+# Top-level tabs (Material) + section roots. Add a line when you create a new top-level folder under docs/.
+# Inside each folder, add pages as .md files; use a local .nav.yml there to control order and labels.
+nav:
+  - Welcome: index.md
+  - Historical Record: history
+  - Articles: articles
+  - Stats and Sheets: statistics
+  - Webpages: webpages
+  - Video Library: video
+  - Image Library: image-library
+  - "Misc/Uncategorized": misc
+  - Contributing: contributing

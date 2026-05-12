@@ -1,2 +1,4 @@
 # `imaging` extra: Pillow + CairoSVG for the built-in social plugin (generated preview cards).
 mkdocs-material[imaging]~=9.5
+# Folder-friendly nav: docs/.nav.yml + optional docs/<section>/.nav.yml (see https://lukasgeiter.github.io/mkdocs-awesome-nav/ )
+mkdocs-awesome-nav~=3.0
