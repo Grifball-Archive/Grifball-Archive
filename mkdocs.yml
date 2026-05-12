@@ -14,13 +14,13 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
+      primary: blue
       accent: deep orange
       toggle:
         icon: material/brightness-7
         name: Dark mode
     - scheme: slate
-      primary: indigo
+      primary: red
       accent: deep orange
       toggle:
         icon: material/brightness-4
@@ -38,6 +38,8 @@ theme:
     - search.highlight
     - content.action.edit
     - toc.follow
+
+    logo: assets/images/Assault_Icon.jpg
 
 plugins:
   - search
