@@ -1,6 +1,6 @@
 # Misc / Uncategorized
 
-Use this section when you have **something worth keeping** but you are **not sure** which main area it belongs in (Historical record, Articles, Stats and sheets, Video library, Webpages, Image library, and so on).
+Use this section when you have **something worth keeping** but you are **not sure** which main area it belongs in (Historical Record, Articles, Stats and Sheets, Video Library, Webpages, Image Library, and so on).
 
 ## How it works
 

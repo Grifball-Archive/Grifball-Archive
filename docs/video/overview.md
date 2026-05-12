@@ -15,7 +15,7 @@ Below is an **illustrative** table. Replace the rows with real events as you add
 | *(example)* Finals — Team A vs Team B | 2019-07-14 | Full series, caster audio | `https://www.youtube.com/watch?v=…` |
 | *(example)* Rules clinic / Q&A | 2022-01-08 | Community workshop (unlisted OK) | `https://youtu.be/…` |
 
-When you add a real event, create a new page under `docs/video/` (for example `docs/video/2019-summer-finals.md`), paste your table and prose, then add that file to **`mkdocs.yml`** under **Video library** so it appears in the sidebar.
+When you add a real event, create a new page under `docs/video/` (for example `docs/video/2019-summer-finals.md`), paste your table and prose, then add that file to **`mkdocs.yml`** under **Video Library** so it appears in the sidebar.
 
 ## Embeds (optional)
 

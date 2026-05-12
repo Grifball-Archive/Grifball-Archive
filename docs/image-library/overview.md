@@ -15,8 +15,8 @@ Below is an **illustrative** table. Replace the rows as you add real entries.
 | *(example)* Finals scoreboard | 2019-07-14 | In-game end screen | `../assets/images/example-scoreboard.png` (from a page in this section) |
 | *(example)* League banner | 2022-01-08 | Promotional art | `https://example.org/banner.jpg` |
 
-When you add a real topic, create a new page under `docs/image-library/` (for example `docs/image-library/2019-finals-photos.md`), add your table and notes, then register that file in **`mkdocs.yml`** under **Image library** so it appears in the sidebar.
+When you add a real topic, create a new page under `docs/image-library/` (for example `docs/image-library/2019-finals-photos.md`), add your table and notes, then register that file in **`mkdocs.yml`** under **Image Library** so it appears in the sidebar.
 
 ## Same idea as the video library
 
-Like **[Video library](../video/overview.md)**, this area is for **metadata and pointers**, not for dumping huge raw files without context.
+Like **[Video Library](../video/overview.md)**, this area is for **metadata and pointers**, not for dumping huge raw files without context.

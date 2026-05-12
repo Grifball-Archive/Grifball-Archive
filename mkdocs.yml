@@ -21,13 +21,13 @@ theme:
   palette:
     - scheme: default
       primary: blue
-      accent: deep orange
+      accent: red
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
     - scheme: slate
       primary: red
-      accent: deep orange
+      accent: blue
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
@@ -66,19 +66,19 @@ markdown_extensions:
 
 nav:
   - Welcome: index.md
-  - Historical record:
+  - Historical Record:
       - Overview: history/overview.md
       - Timeline (stub): history/timeline.md
   - Articles:
       - Overview: articles/overview.md
       - About this archive: articles/about-the-archive.md
-  - Stats and sheets:
+  - Stats and Sheets:
       - Overview: statistics/overview.md
-  - Video library:
-      - Overview: video/overview.md
   - Webpages:
       - Overview: webpages/overview.md
-  - Image library:
+  - Video Library:
+      - Overview: video/overview.md
+  - Image Library:
       - Overview: image-library/overview.md
   - "Misc/Uncategorized":
       - Overview: misc/overview.md

@@ -25,7 +25,7 @@ Put exports under **`docs/assets/files/`** and describe them in a Markdown page 
 
 ## Video
 
-Link only; see [Video library](../video/overview.md).
+Link only; see [Video Library](../video/overview.md).
 
 ## Preview locally
 
