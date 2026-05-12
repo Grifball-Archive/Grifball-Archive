@@ -46,7 +46,6 @@ For anything important long-term, prefer **downloaded exports** or a copy the or
 GitHub wikis are **git repositories**; they are a poor place for big binary files (slow clones, size limits, no streaming). **Do not** rely on uploading full videos into the wiki.
 
 - **Preferred:** upload to **YouTube** (public or **unlisted**), **Internet Archive**, or another stable host, then on the wiki add a **short article** with context, date, and the **link** (and optionally a thumbnail image).
-- **Short clips:** only if very small (think a few MB at most); still prefer an external link for anything nontrivial.
 
 ## Cloning the wiki locally
 
