@@ -1,6 +1,5 @@
-/* Custom look: edit this file + theme colors in ../../mkdocs.yml (theme.palette). */
-/* Material docs: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ */
-/* and: https://squidfunk.github.io/mkdocs-material/customization/ */
+/* url() is relative to this file in the built site: stylesheets/extra.css → ../assets/images/… */
+/* Images live in: docs/assets/images/ */
 
 .md-typeset h1 {
   font-weight: 600;
