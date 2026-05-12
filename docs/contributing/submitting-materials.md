@@ -1,7 +1,5 @@
 # Submitting materials
 
-The site is built from the **`docs/`** folder with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). Updates land on `main` through the normal GitHub flow you use for this repo (for example pull requests, or direct commits if you leave the branch open).
-
 ## Add or edit a page
 
 1. Open the right file under `docs/…` in the repository.
@@ -13,7 +11,7 @@ The site is built from the **`docs/`** folder with [MkDocs Material](https://squ
 
 ## Images
 
-Place files under **`docs/assets/images/`**. From `docs/articles/foo.md`:
+Place files under **`docs/assets/images/`**
 
 ```markdown
 ![caption](../assets/images/example.png)
