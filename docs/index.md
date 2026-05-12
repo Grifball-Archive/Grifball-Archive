@@ -1,11 +1,3 @@
----
-# Welcome-page link preview: social plugin uses this image on the generated card.
-# Replace docs/assets/images/hero.jpg with your real hero; same file is shown below.
-social:
-  cards_layout_options:
-    background_image: docs/assets/images/grifball-archive-hero.png
----
-
 # Welcome
 
 <img class="gb-hero" src="assets/images/grifball-archive-hero.png" alt="Grifball Archive hero" loading="lazy" decoding="async" />

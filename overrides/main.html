@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{# Homepage: raw hero as og/twitter image (no generated social card — see docs/index.md social.cards). #}
+{% block extrahead %}
+  {{ super() }}
+  {% if page and page.is_homepage and config.site_url %}
+    {% set rel = config.extra.homepage_preview | default("assets/images/grifball-archive-hero.png", true) %}
+    {% set hero = config.site_url.rstrip("/") ~ "/" ~ rel.lstrip("/") %}
+    <meta property="og:image" content="{{ hero }}">
+    <meta property="og:image:alt" content="{{ config.site_name }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:image" content="{{ hero }}">
+  {% endif %}
+{% endblock %}

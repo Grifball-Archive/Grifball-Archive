@@ -5,7 +5,7 @@
   font-weight: 600;
 }
 
-/* Welcome hero (docs/index.md); replace docs/assets/images/hero.jpg to change page + social card */
+/* Welcome hero (docs/index.md); keep path in sync with mkdocs.yml extra.homepage_preview */
 .md-typeset img.gb-hero {
   display: block;
   width: 100%;
