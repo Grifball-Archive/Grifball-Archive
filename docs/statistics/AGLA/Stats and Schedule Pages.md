@@ -8,34 +8,84 @@
 - [SML18 Fantasy by Rey](https://docs.google.com/spreadsheets/d/1iHaq1roCJrTSw2_d8DWnqln4jcyBmBdu5-0lucv7bF4)
 - [FL18 Bid League](https://docs.google.com/spreadsheets/d/1Th2BrmlN6PdYfgoMXv4N5tZQMsfDsQAUZxkB0l3wOUs/edit?usp=sharing)
 - [FL18 Schedule](https://docs.google.com/spreadsheets/d/1KKf9NQ39c9-0uA4VFGVBCs8trti4JE1xZNe0z-OBV-8/edit?usp=sharing)
+
+**Repository copies** (`docs/assets/files` on `main` — same files as [GitHub](https://github.com/Grifball-Archive/Grifball-Archive/tree/main/docs/assets/files)):
+
+- [AGLA SL18 Fantasy League Pro.xlsx](../../assets/files/AGLA%20SL18%20Fantasy%20League%20Pro.xlsx)
+- [AGLA FL18.xlsx](../../assets/files/AGLA%20FL18.xlsx)
+
 ### 2019
 - [WL19 Schedule & Stats](https://docs.google.com/spreadsheets/d/1eFkwBB9dPex_Cub0ZKFYmTrqXvBKZcp1LHMafCQYjds/edit?usp=sharing)
 - [WL19 Playoff Bracket](https://challonge.com/h3wl19)
 - [SL19 Schedule & Stats](https://docs.google.com/spreadsheets/d/1hWlxvPYIwlUKDIcnyrVA5FYWiYgLegGy2fbraz9XkPY/edit?usp=sharing)
+
+**Repository copies:**
+
+- [AGLA SL19 Schedule and Statistics.xlsx](../../assets/files/AGLA%20SL19%20Schedule%20and%20Statistics.xlsx)
+- [AGLA WL19 Schedule and Statistics.xlsx](../../assets/files/AGLA%20WL19%20Schedule%20and%20Statistics.xlsx)
+- [Halo 3 WL19 Playoffs.png](../../assets/files/Halo%203%20WL19%20Playoffs.png)
+
 ### 2020
 - [WL20 Xbox Schedule](https://docs.google.com/spreadsheets/d/1U83qbjsQR0Up5mPzxs5IyzB4YclVXVDX7oOgw2oeUio/edit?usp=drivesdk)
 - [SL20 Console Halo 5](https://docs.google.com/spreadsheets/d/1snAr7pMsghrUt5X11vuSEaHIN_2tPNudl2nJUfzuS0M/edit?ts=5e8a3140#gid=1623708663)
 - [SL20 Console Reach](https://docs.google.com/spreadsheets/d/1ScAIlAnYjdgMfp-Y9MGiYpb-IaiOOddvwtM4yv02tRU/edit#gid=1715716983)
 - [SML20 Halo 3](https://docs.google.com/spreadsheets/d/15FUtOUopmoLyQ488O8Z_Z-dEFGfWrOMhmOarHgscUc8/edit#gid=0)
 - [FL20 PC schedule, stats, standings](https://docs.google.com/spreadsheets/d/1UFQZ6ZXEkmzDpdsUN0hlyTouzB9RtRwJd63V_NgpLnw/edit?usp=sharing)
+
+**Repository copies:**
+
+- [AGLA FL20 PC Schedule, Stats, Standings.xlsx](../../assets/files/AGLA%20FL20%20PC%20Schedule%2C%20Stats%2C%20Standings.xlsx)
+- [AGLA SL20 Halo 5 Schedule, Standings, and Rosters.xlsx](../../assets/files/AGLA%20SL20%20Halo%205%20Schedule%2C%20Standings%2C%20and%20Rosters.xlsx)
+- [AGLA SL20 Reach Schedule _ Rosters _ Standings.xlsx](../../assets/files/AGLA%20SL20%20Reach%20Schedule%20_%20Rosters%20_%20Standings.xlsx)
+- [AGLA SML20 PC Schedule, Stats, Standings.xlsx](../../assets/files/AGLA%20SML20%20PC%20Schedule%2C%20Stats%2C%20Standings.xlsx)
+- [Bidding AGLA S4.xlsx](../../assets/files/Bidding%20AGLA%20S4.xlsx)
+
 ### 2021
 - [WL21 Schedule](https://docs.google.com/spreadsheets/d/1XepEDC1U3pi0y0bArKJFog6dA_EVC3YX5O5bVXkoLKQ/edit?ts=60097c1a#gid=1799145928)
 - [WL21 Legacy Stats](https://docs.google.com/spreadsheets/d/1GmCC5gG6kG2oWfaweC5hKRuUWFc1EfcmKxP8y0iN5Ls/edit#gid=1752549387)
 - [WL21 Rookie stats](https://docs.google.com/spreadsheets/d/1nJ6ljk9vCgHL6O_PqJyQ8l0nYNFkJ9mxB6S1GnmqXp0/edit?usp=sharing)
 - [SML21 Pro Stats](https://docs.google.com/spreadsheets/d/1a4rzrIgmGYJMhAh7OWKqflRBlcojPKbjESd6z-vdYSQ/edit?usp=sharing)
 - [SML21 Ammy Stats](https://docs.google.com/spreadsheets/d/1uyoSop8S-rclI8bKMrxfoHz_gAor6PEr4KYWrzNVeUk/edit?usp=sharing)
+
+**Repository copies:**
+
+- [AGLA WL21 Schedules .xlsx](../../assets/files/AGLA%20WL21%20Schedules%20.xlsx)
+- [Summer League 2021 Ammy Stats.xlsx](../../assets/files/Summer%20League%202021%20Ammy%20Stats.xlsx)
+- [Summer League 2021 Pro Stats.xlsx](../../assets/files/Summer%20League%202021%20Pro%20Stats.xlsx)
+- [WL21 Legacy Stats.xlsx](../../assets/files/WL21%20Legacy%20Stats.xlsx)
+- [WL21 Rookie Stats.xlsx](../../assets/files/WL21%20Rookie%20Stats.xlsx)
+
 ### 2022
 - [ASpence's Halo 4 Bid Season Bid Sheet](https://docs.google.com/spreadsheets/d/13mh57_f3lTZ1_J73w79yyzCnDJwUhKI3/edit?usp=sharing&ouid=115452215758315537570&rtpof=true&sd=true)
 - [ASpence Halo 4 Bid Season Draft](https://docs.google.com/spreadsheets/d/1qAKUcr1MdYW9UVmXRLd0C-MfG8iLtYtIGHuSqXDnGCA/edit?usp=sharing)
 - [ASpence Halo 4 Bid Season Stats](https://docs.google.com/spreadsheets/d/1Z9VmOuCMTgaEnOnUU9umVga-2SkJO4_v/edit?usp=sharing&ouid=115452215758315537570&rtpof=true&sd=true)
 - [H3 Action League 22 Schedule](https://docs.google.com/spreadsheets/d/1ceO9r3ZgOOc7IZ5emFypcfYQh9HmWC4UmX5idkBKfv0/edit#gid=1256495517)
 - [H3 Action League 22 Stats](https://docs.google.com/spreadsheets/d/1TsOpw9HGE746pdgvIuePHhB7UmRRlGQKGXjPKGVjdQ4/edit#gid=124879047)
+
+**Repository copies:**
+
+- [ASpence's Halo 4 Bid Season - Captain's Reference 22.xlsx](../../assets/files/ASpence%27s%20Halo%204%20Bid%20Season%20-%20Captain%27s%20Reference%2022.xlsx)
+- [Action Season Schedule & Info 22.xlsx](../../assets/files/Action%20Season%20Schedule%20%26%20Info%2022.xlsx)
+- [ASpence's Halo 4 Bid Season Stats 22.xlsx](../../assets/files/ASpence%27s%20Halo%204%20Bid%20Season%20Stats%2022.xlsx)
+- [H3 Action Season Tracking 22.xlsx](../../assets/files/H3%20Action%20Season%20Tracking%2022.xlsx)
+
 ### 2023 (Infinite Season 1)
 - [Grifball DA WL23 Stats](https://docs.google.com/spreadsheets/d/1xpraseVR_rQu7LCuUNWuFWf4qSHcLyJlxDN2RtMF240/edit?usp=sharing)
 - [Grifball DA WL23 Schedule](https://docs.google.com/spreadsheets/d/10wxiYzEgZb4H6cZhZMw0v-k0yrDvaOpi/edit?usp=sharing&ouid=115452215758315537570&rtpof=true&sd=true)
+
+**Repository copies:**
+
+- [AGLA Draft Halo Infinite Winter League 2023 (Grifball DA) (Season 1).xlsx](../../assets/files/AGLA%20Draft%20Halo%20Infinite%20Winter%20League%202023%20(Grifball%20DA)%20(Season%201).xlsx)
+
 ### 2024 (Infinite Season 2)
 - [Grifball DA(Post Netcode Change) SL24 Stats](https://docs.google.com/spreadsheets/d/1xJE_9vJyvXWAet8VyYdXpZeZDPwEMlQL/edit?usp=sharing&ouid=115452215758315537570&rtpof=true&sd=true)
 - [Grifball DA(Post Netcode Change) SL24 Schedule](https://docs.google.com/spreadsheets/d/13QrNos6NEb8aEFWtYrTn5-8-ayTiQdxs/edit?usp=sharing&ouid=115452215758315537570&rtpof=true&sd=true)
+
+**Repository copies:**
+
+- [AGLA Draft Halo Infinite Spring League 2024 Stats (Grifball DA) (Season 2).xlsx](../../assets/files/AGLA%20Draft%20Halo%20Infinite%20Spring%20League%202024%20Stats%20(Grifball%20DA)%20(Season%202).xlsx)
+- [AGLA Draft Spring League 2024 Schedule (Grifball DA) (Season 2).xlsx](../../assets/files/AGLA%20Draft%20Spring%20League%202024%20Schedule%20(Grifball%20DA)%20(Season%202).xlsx)
+
 ### 2025 (Infinite Season 4-8)
 - [Octane WL25 Stats](https://docs.google.com/spreadsheets/d/1L2F7zzUsZ90c7iFxZVn9xkXdj17w7e72/edit?usp=sharing&ouid=115452215758315537570&rtpof=true&sd=true)
 - [Octane WL25 Schedule](https://docs.google.com/spreadsheets/d/1-zTTfLK4RgxlTJfzWEGhI-vaecS6UOSLhZq3ikTyzA4/edit?usp=sharing)
@@ -50,6 +100,18 @@
 - [SL26 Minor Season Stats & Schedule](https://docs.google.com/spreadsheets/d/1oXOghXN493YwkEobhgL3UcDoiG8f0sameZ3QagrYUoI/edit?gid=1536689010#gid=1536689010)
 - [SL26 Major Season Stats](https://docs.google.com/spreadsheets/d/1aN6Q8fq4SEi-TTHsHCB2BNggcWSfjzcGyhiL7Sf2dIQ/edit?gid=1269633556#gid=1269633556)
 - [SL26 Major Season Schedule](https://docs.google.com/spreadsheets/d/1DBxPmiTg6yGyL7fjy5NmwSL0sr2ei1thnXD-vP32oNk/edit?gid=1882778066#gid=1882778066)
+
+**Repository copies:**
+
+- [AGLA Classic Draft SML25 Legacy Stats Sheet.xlsx](../../assets/files/AGLA%20Classic%20Draft%20SML25%20Legacy%20Stats%20Sheet.xlsx)
+- [AGLA Octane Spring Bid League 2025 Schedule.xlsx](../../assets/files/AGLA%20Octane%20Spring%20Bid%20League%202025%20Schedule.xlsx)
+- [AGLA Octane Spring Bid League 2025 Stats Sheet.xlsx](../../assets/files/AGLA%20Octane%20Spring%20Bid%20League%202025%20Stats%20Sheet.xlsx)
+- [AGLA Octane Winter Bid League 2025 Schedule .xlsx](../../assets/files/AGLA%20Octane%20Winter%20Bid%20League%202025%20Schedule%20.xlsx)
+- [AGLA Octane Winter Bid League 2025 Stats Sheet (Season 4).xlsx](../../assets/files/AGLA%20Octane%20Winter%20Bid%20League%202025%20Stats%20Sheet%20(Season%204).xlsx)
+- [AGLA Summer League 2025 Schedule .xlsx](../../assets/files/AGLA%20Summer%20League%202025%20Schedule%20.xlsx)
+- [Bidding AGLA S5 (SL25).xlsx](../../assets/files/Bidding%20AGLA%20S5%20(SL25).xlsx)
+- [Halo Infinite SML25 Draft Sheet.xlsx](../../assets/files/Halo%20Infinite%20SML25%20Draft%20Sheet.xlsx)
+
 # IGL Seasons (Infinite Season 3)
 - [Evolved FL24](https://docs.google.com/spreadsheets/d/1schmXjzORQ75nk63hR3QZGtUZsONwDsQNiis-5gm33I/edit?pli=1&gid=2107150591#gid=2107150591)
 - [Evolved FL24 Stats](https://docs.google.com/spreadsheets/d/1x3UX4S0ehZdbGlegX8RZ5lxn0ydooIRGkdvXYc_tPMQ/edit?usp=drivesdk)
